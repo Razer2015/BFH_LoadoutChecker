@@ -10,7 +10,7 @@ using PRoCon.Core;
 
 public class BattlelogClient
 {
-
+    /*  */
     private HttpWebRequest req = null;
     public String personaID = "";
 

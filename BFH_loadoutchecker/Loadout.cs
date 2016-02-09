@@ -30,10 +30,13 @@ namespace BFH_loadoutchecker
                     return null;
 
                 loadout = bclient.getStats(playerName, i);
-                activeKit = i;
-                active_Kit = (kits)i;
-                if ((bool)loadout["isActive"])
-                    break;
+                if(loadout != null)
+                {
+                    activeKit = i;
+                    active_Kit = (kits)i;
+                    if ((bool)loadout["isActive"])
+                        break;
+                }
             }
             personaID = bclient.personaID;
             return (loadout);
@@ -43,10 +46,16 @@ namespace BFH_loadoutchecker
         {
             BattlelogClient bclient = new BattlelogClient();
             Hashtable loadout = bclient.getStats(playerName, index);
-            personaID = bclient.personaID;
-            activeKit = index;
-            active_Kit = (kits)index;
-            return (loadout);
+            if (loadout != null)
+            {
+                personaID = bclient.personaID;
+                activeKit = index;
+                active_Kit = (kits)index;
+
+                return (loadout);
+            }
+            else
+                return (null);
         }
     }
 }
