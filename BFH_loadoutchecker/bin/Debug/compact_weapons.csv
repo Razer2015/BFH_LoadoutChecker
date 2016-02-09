@@ -1,0 +1,33 @@
+key;category;rareness;name;categoryType;slug;desc;category_rn;name_rn;desc_rn
+3981610560;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_FIM92;Rocket Launchers;fim-92-stinger;BFH_ID_P_IDESC_FIM92;GADGET;;
+280194268;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_TASER_GUN;Special;t62-cew;BFH_ID_P_IDESC_TASER_GUN;GADGET;T62 Cew;The T62 CEW has short-range non-lethal takedown.  Interrogate a stunned opponent to find out where his nearby teammates are (multiplayer only).
+2570870203;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_LASER_TRIPMINE;Gadgets Explosives;laser-tripmine;BFH_ID_P_IDESC_LASER_TRIPMINE;GADGET;Laser Tripmine;Explosive mine that detonates when the laser tripline is broken. Can be placed on any available surface in arm's reach. Can be disarmed by agents that spot it in time.
+2963530927;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_G36C;Assault Rifles;g36c;;PRIMARY WEAPON;G36C;
+2187219279;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_MG36;LMG;mg36;;PRIMARY WEAPON;;
+2015329775;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_UMP45;SMG;ump-45;;PRIMARY WEAPON;UMP-45;
+2002020705;BFH_ID_P_CAT_GRENADE;RarenessLevel_Standard;BFH_ID_P_INAME_GAS_GRENADE;Hand Grenades;gas-grenade;BFH_ID_P_IDESC_GAS_GRENADE;GRENADE;Gas Grenade;Timed fuse grenades that emit a cloud of riot-control tear gas. Those affected by the gas suffer blurred vision, making it impossible to aim accurately, and are more susceptible to damage.
+3107760066;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_REPAIR;Special;repair-tool;BFH_ID_P_IDESC_REPAIR;GADGET;Repair Tool;Hand held oxy-fuel welding and cutting torch that repairs friendly vehicles and damages enemy vehicles and agents.
+3758969295;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_AKM;Assault Rifles;akm;;PRIMARY WEAPON;AKM;
+3591525602;BFH_ID_P_CAT_MELEE;RarenessLevel_Standard;BFH_ID_P_INAME_POLICE_BATON;Melee;police-baton;BFH_ID_P_IDESC_POLICE_BATON;MELEE;Police Baton;
+1044546097;BFH_ID_P_CAT_MELEE;RarenessLevel_Standard;BFH_ID_P_INAME_BAYONETT;Melee;knife;BFH_ID_P_IDESC_BAYONETT;MELEE;Knife;
+3281203881;BFH_ID_P_CAT_GRENADE;RarenessLevel_Standard;BFH_ID_P_INAME_M67;Hand Grenades;m67-frag;BFH_ID_P_IDESC_M67;GRENADE;M67 Frag;High-explosive fragmentation grenade with a medium blast radius deals significant damage to infantry and vehicles.
+3221893071;BFH_ID_P_CAT_SIDEARM;RarenessLevel_Standard;BFH_ID_P_WNAME_M9;Handguns;92fs;;;92FS;
+2173883055;BFH_ID_P_CAT_SIDEARM;RarenessLevel_Standard;BFH_ID_P_WNAME_HK45C;Handguns;hk45c;;;45T;
+315381322;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_RPG7;Rocket Launchers;rpg-7v2;BFH_ID_P_IDESC_RPG7;GADGET;;
+3166777505;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_DEPLOYABLE_CAMERA;Gadgets Equipment;camera;BFH_ID_P_IDESC_DEPLOYABLE_CAMERA;GADGET;Camera;Camera which detects and reports enemy movement in a wide cone in front of the camera.  Don't underestimate the power of intel!
+2193941055;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_ZIPLINE;Special;zipline;BFH_ID_P_IDESC_ZIPLINE;GADGET;Zipline;The Zipline creates a wire stretched between two points.  Jump onto the Zipline at any point to travel rapidly downwards.  Disable enemy Ziplines by severing the rope or taking out the supports.
+1002075951;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_M16A4;Assault Rifles;m16a3;;PRIMARY WEAPON;;
+797628655;BFH_ID_P_CAT_SIDEARM;RarenessLevel_Standard;BFH_ID_P_WNAME_INF9;Handguns;tec-9;;;TEC-9;
+3528166607;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_SBS12;Shotguns;sawed-off-shotgun;;PRIMARY WEAPON;DOUBLE-BARREL SHOTGUN;
+27018607;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_R700LTR;Sniper Rifles;r700ltr;;PRIMARY WEAPON;R700 LTR;
+4063719559;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_BALLISTIC_SHIELD;Special;ballistic-shield;BFH_ID_P_IDESC_BALLISTIC_SHIELD;GADGET;Ballistic Shield;The Ballistic Shield is designed to block bullets and explosive damage. After absorbing a certain amount of damage, the shield is destroyed. The shield can be used to perform a vicious bash attack.
+1132952559;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_P90;SMG;p90;;PRIMARY WEAPON;P90;
+1657156069;BFH_ID_P_CAT_MELEE;RarenessLevel_Standard;BFH_ID_P_INAME_BAT;Melee;baseball-bat;BFH_ID_P_IDESC_BAT;MELEE;Baseball Bat;
+2927243278;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_REVIVE;Special;revive;BFH_ID_P_IDESC_DEFIB;GADGET;Revive;The AED (Automated External Defibrillator) is a portable electronic device that can bring downed teammates back into the fight. Spending time preparing the AED brings teammates back with increased health. Fully charged, it can also take down an enemy.
+2618329167;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_870;Shotguns;870p-marine-magnum;;PRIMARY WEAPON;870P MAGNUM;
+2014798767;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_ISC9;SMG;uzi;;PRIMARY WEAPON;UZI;
+4281614697;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_C4;Gadgets Explosives;breaching-charge;BFH_ID_P_IDESC_C4;GADGET;Breaching Charge;Plastic explosives that stick to most surfaces. The remote detonator allows for traps and ambushes.
+698416463;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_PTI91;Sniper Rifles;ptr-91;;PRIMARY WEAPON;PTR-91;
+1239572719;BFH_ID_P_CAT_GADGET;RarenessLevel_Standard;BFH_ID_P_INAME_GRAPPLEHOOK;Special;grappling-hook;BFH_ID_P_IDESC_GRAPPLEHOOK;GADGET;Grappling Hook;Firing the Grappling Hook at a flat ledge creates a climbable grapple rope up to the top of the ledge. Ropes can be cut or shot to be destroyed. 
+2917983247;BFH_ID_P_CAT_PRIMARY;RarenessLevel_Standard;BFH_ID_P_WNAME_SCR308;Sniper Rifles;saiga-308;;PRIMARY WEAPON;SAIGA .308;
+2049473039;BFH_ID_P_CAT_SIDEARM;RarenessLevel_Standard;BFH_ID_P_WNAME_SW38;Handguns;38-snub;;;.38 SNUB;
